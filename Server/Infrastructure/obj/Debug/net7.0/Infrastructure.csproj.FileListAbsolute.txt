@@ -1,0 +1,17 @@
+H:\New folder (2)\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+H:\New folder (2)\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+H:\New folder (2)\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+H:\New folder (2)\Infrastructure\bin\Debug\net7.0\Core.dll
+H:\New folder (2)\Infrastructure\bin\Debug\net7.0\Core.pdb
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+H:\New folder (2)\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+H:\New folder (2)\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache

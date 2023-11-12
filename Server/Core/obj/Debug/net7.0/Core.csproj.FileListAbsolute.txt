@@ -1,0 +1,12 @@
+H:\New folder (2)\Core\bin\Debug\net7.0\Core.deps.json
+H:\New folder (2)\Core\bin\Debug\net7.0\Core.dll
+H:\New folder (2)\Core\bin\Debug\net7.0\Core.pdb
+H:\New folder (2)\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+H:\New folder (2)\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder (2)\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+H:\New folder (2)\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+H:\New folder (2)\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+H:\New folder (2)\Core\obj\Debug\net7.0\Core.dll
+H:\New folder (2)\Core\obj\Debug\net7.0\refint\Core.dll
+H:\New folder (2)\Core\obj\Debug\net7.0\Core.pdb
+H:\New folder (2)\Core\obj\Debug\net7.0\ref\Core.dll
